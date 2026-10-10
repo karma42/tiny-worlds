@@ -1,0 +1,20 @@
+{
+  "project": "Tiny Worlds",
+  "date": "2026-10-10",
+  "generator": "Built-in image_gen",
+  "status": "Exploratory product mockups with synthetic data; not implemented features or measured state.",
+  "images": [
+    {
+      "file": "cover.png",
+      "prompt": "Use case: ui-mockup. Create a high-quality landscape raster image, 1536x1024 composition. This is an exploratory product design image for a friends coding/research project. Depict the intended product concretely, not abstract symbolic artwork. Minimal readable text, no laptop or phone hardware, no floating screens, no watermarks or external brand logos. Include a small discreet label 'DESIGN CONCEPT'. All shown state is synthetic. Product cover for 'Tiny Worlds', a browser-based shared 3D town-building project. A beautiful lively compact isometric low-poly 3D town on a small terrain island dominates the image. Five imaginative distinct buildings: round bakery, blue-roof bookshop, greenhouse, tiny observatory and coral-colored house, linked by walkable paths with miniature avatars. One vacant outlined plot invites building. Clean precise colorful low-poly geometry, soft clay-like surfaces, lavender and coral with teal, gentle shadows, cheerful playful atmosphere. Minimal overlay title 'Tiny Worlds', subtitle 'Build a town together', tiny 'Explore' and 'Build' mode switch. Clearly an actual 3D town product, not abstract spheres or fantasy castle illustration."
+    },
+    {
+      "file": "concept-build.png",
+      "prompt": "Use case: ui-mockup. Create a high-quality landscape raster image, 1536x1024 composition. This is an exploratory product design image for a friends coding/research project. Depict the intended product concretely, not abstract symbolic artwork. Minimal readable text, no laptop or phone hardware, no floating screens, no watermarks or external brand logos. Include a small discreet label 'DESIGN CONCEPT'. All shown state is synthetic. Concrete browser town-editor concept for 'Tiny Worlds'. Main isometric colorful low-poly 3D town viewport showing an empty selected plot next to a bakery and a greenhouse. A translucent preview of a small blue-roof cottage sits on selected plot. Left compact building palette titled 'Build' with large recognizable thumbnails 'Cottage', 'Shop', 'Tree', 'Bench'. Bottom controls 'Rotate', 'Place', 'Cancel'. Right small inspector 'Your plot', selected item 'Cottage'. Lavender panels, coral/teal buildings, playful clay-like 3D geometry, visually distinct from realistic Central Park. No live user-count or multiplayer readiness claims. Label 'Proposed editor'."
+    },
+    {
+      "file": "concept-visit.png",
+      "prompt": "Use case: ui-mockup. Create a high-quality landscape raster image, 1536x1024 composition. This is an exploratory product design image for a friends coding/research project. Depict the intended product concretely, not abstract symbolic artwork. Minimal readable text, no laptop or phone hardware, no floating screens, no watermarks or external brand logos. Include a small discreet label 'DESIGN CONCEPT'. All shown state is synthetic. Concrete visitor-exploration concept for 'Tiny Worlds'. Third-person browser 3D scene, friendly small avatar seen from behind walking along town path between a round bakery and a blue-roof bookshop, toward greenhouse and little observatory. Soft low-poly clay-like buildings, big clear silhouettes, pastel lavender coral teal. Minimal bottom controls using arrow-key icons 'Move', small chip 'Bookshop' appears near the building, top header 'Tiny Worlds', toggle 'Visit' selected and 'Build'. Small inset isometric town minimap, no imaginary real-world map. Composition is immersive street-level, very different from isometric editor. No chat feed or visitor statistics. Label 'Proposed visitor view'."
+    }
+  ]
+}
